@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /zero_day
+git add .
+git commit -m "My first commit"
+git push
